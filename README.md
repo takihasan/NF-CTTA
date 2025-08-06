@@ -3,7 +3,7 @@
 <div align="center">
 
 <div>
-      Taki Hasan Rafi<sup>#</sup>&emsp; Amit Agarwal<sup>#</sup>&emsp; Hitesh Patel&emsp; Dong-Kyu Chae<sup>#</sup>
+      Taki Hasan Rafi<sup>#</sup>&emsp; Amit Agarwal<sup></sup>&emsp; Hitesh Patel&emsp; Dong-Kyu Chae<sup>#</sup>
   </div>
 <div>
 

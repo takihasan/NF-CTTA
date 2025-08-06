@@ -1,5 +1,11 @@
-# [CIKM 2025] Towards Robust Continual Test-Time Adaptation via Neighbor Filtration
+# [CIKM2025] Towards Robust Continual Test-Time Adaptation via Neighbor Filtration
 
-Taki Hasan Rafi<sup></sup> &nbsp;&nbsp;&nbsp; Amit Agarwal<sup></sup> &nbsp;&nbsp;&nbsp; Hitesh Patel &nbsp;&nbsp;&nbsp; Dong-Kyu Chae*  
-Hanyang University
+<div align="center">
+
+<div>
+      Taki Hasan Rafi<sup>#</sup>&emsp; Amit Agarwal<sup>#</sup>&emsp; Hitesh Patel&emsp; Dong-Kyu Chae<sup>#</sup>
+  </div>
+<div>
+
+  <sup>#</sup>Data Intelligence Lab, Hanyang University&emsp;
 

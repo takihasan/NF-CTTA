@@ -1,5 +1,5 @@
 # NF-CTTA
-# Towards Robust Continual Test-Time Adaptation via Neighbor Filtration
+# Towards Robust Continual Test-Time Adaptation via Neighbor Filtration (CIKM 2025)
 
 This repository contains the official implementation of our paper:
 
